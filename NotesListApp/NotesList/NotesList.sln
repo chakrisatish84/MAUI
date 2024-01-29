@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesList", "NotesList.csproj", "{92341B72-FB25-430C-9C1B-BEAA8781DB6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92341B72-FB25-430C-9C1B-BEAA8781DB6A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E6A174-DFAB-4F47-BA34-6B2508A50F4F}
+	EndGlobalSection
+EndGlobal
